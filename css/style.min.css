@@ -1,10 +1,10 @@
 /*
- * Roxy: Bootstrap template by GettTemplates.com
  * https://gettemplates.co/roxy
  */
  html, body {
   width: 100%;
-  overflow-x: hidden; }
+  overflow-x: hidden;
+ }
 
 body {
   font-family: 'Lato', sans-serif;
@@ -789,5 +789,19 @@ section {
   border-radius: 50%;
 }
 
+.carol{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 120px;
+
+}
+
+.fonte{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+}
+
+.fontePrincipal{
+  font-size: 60px;
+} 
 
 

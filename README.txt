@@ -1,8 +1,9 @@
 PORTFÓLIO - CAROLAINE ALEXANDRE
 Desenvolvido por Carolaine Alexandre 
 
-Designer e desenvolvimento baseados no Roxy - Bootstrap 4 template built by GetTemplates.co e FreeHTML5.co
-Websites: https://gettemplates.co https://freehtml5.co/
+Designer e desenvolvimento baseados em GetTemplates.co e FreeHTML5.co
+
+
 
 
 CRÉDITOS:
